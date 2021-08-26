@@ -3,11 +3,18 @@ GILANG - BRUTEFORCE FACEBOOK WITH WORDLIST
 
 GILANG - BRUTEFORCE FACEBOOK WITH WORDLIST
 # تثبيت الاداة 
-```$apt upgrade && apt update```
-```$pkg install python2 git nano```
-```$pip2 install requests```
-```$git clone https://github.com/sadamshr3be/FACEBOOK3```
-```$cd FACEBOOK3```
+
+
+
+```apt upgrade && apt update```
+
+```pkg install python2 git nano```
+
+```pip2 install requests```
+
+```git clone https://github.com/sadamshr3be/FACEBOOK3```
+
+```cd FACEBOOK3```
 
 
 #التقاط الصورة

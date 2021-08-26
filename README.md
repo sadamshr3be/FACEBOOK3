@@ -21,12 +21,15 @@ GILANG - BRUTEFORCE FACEBOOK WITH WORDLIST
 
 <img src="https://raw.githubusercontent.com/sadamshr3be/FACEBOOK3/main/Capture%2B_2021-08-26-08-30-42.png" width="257px" height="200px"/>
 * كيف تنشئ قائمة كلمات بنفسك؟
-$ nano wordlist.txt
+
+nano wordlist.txt
+
 بعد ذلك احفظ باستخدام = CTRL + C >> انقر فوق Y وأدخل انتر
  يمكنك الآن تشغيل هذه الأدوات باستخدام 
 
 
-```$python2 bruteforce.py```
+```python2 bruteforce.py```
+
 
 # قناتي علـّۓ. اليوتيوب 
 
